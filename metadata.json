@@ -1,0 +1,6 @@
+{
+  "name": "Folk Valley - Minecraft Horror Mod",
+  "description": "A modern, responsive one-page landing page for Folk Valley, a psychological horror mod for Minecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
